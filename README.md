@@ -27,19 +27,19 @@ Footer:
 
 The Landing has a responsive adoptation.
 
-Desktop: 
+### Desktop: 
 ![desktop](https://user-images.githubusercontent.com/78938313/116244624-c3516800-a770-11eb-8389-1e7a00f4aa79.JPG)
-
+### Desktop:
 ![desktop2](https://user-images.githubusercontent.com/78938313/116245825-09f39200-a772-11eb-8dab-0507791624d0.JPG)
 
-Average viewport size:
+### Average viewport size:
 ![avervps](https://user-images.githubusercontent.com/78938313/116244996-293def80-a771-11eb-84e7-e86bafacbd85.JPG)
-
+### Average viewport size:
 ![avervps](https://user-images.githubusercontent.com/78938313/116245775-f5af9500-a771-11eb-99ac-e4d24a66165e.JPG)
 
-Mobile:
+### Mobile:
 ![mobile](https://user-images.githubusercontent.com/78938313/116245273-7ae67a00-a771-11eb-90fa-25dce99cdf79.JPG)
-
+### Mobile:
 ![mobile 2](https://user-images.githubusercontent.com/78938313/116245856-12e46380-a772-11eb-968b-b12411e94382.JPG)
 
 
