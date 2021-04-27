@@ -42,7 +42,7 @@ The Landing has a responsive adoptation.
 ### Average viewport size:
 ![avervps](https://user-images.githubusercontent.com/78938313/116244996-293def80-a771-11eb-84e7-e86bafacbd85.JPG)
 ### Average viewport size:
-![avervps](https://user-images.githubusercontent.com/78938313/116245775-f5af9500-a771-11eb-99ac-e4d24a66165e.JPG)
+![avervps2](https://user-images.githubusercontent.com/78938313/116247982-0fea7280-a774-11eb-83c6-8865045a2c8b.JPG)
 
 ### Mobile:
 ![mobile](https://user-images.githubusercontent.com/78938313/116245273-7ae67a00-a771-11eb-90fa-25dce99cdf79.JPG)
