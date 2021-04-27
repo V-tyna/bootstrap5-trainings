@@ -1,0 +1,132 @@
+/* Button search size start */
+.btn-search {
+    width: 135px;
+}
+/* Button search size end */
+
+/* Main home section start */
+.float-box {
+    display: flex;
+    float: left;
+    margin-right: 15px;
+    width: 300px;
+    height: 300px;
+    border-radius: 7px;
+    padding: 1em;
+}
+/*Main home section end */
+
+/* Sign menu start */
+.signMenu {
+   min-width: 130px!important;
+}
+/* Sign menu end */
+
+/* Carousel container start*/
+.imgContain img {
+    height: 70%;
+    object-fit: cover;
+}
+/* Carousel container start*/
+
+/* In Focus start */
+.inFocus {
+    background-color: rgb(231, 234, 226);
+    padding: 0;
+    margin: 0;
+}
+
+.divH3Title {
+    margin-bottom: 15px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.h3H3Title {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    color: #222;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 15px;
+    /* letter-spacing: 1.5px; */
+    text-transform: uppercase;
+}
+
+.spanH3Title {
+    background: rgb(231, 234, 226);
+    max-width: 310px;
+    z-index: 2;
+}
+
+.divH3Title .h3H3Title::before, .divH3Title .h3H3Title::after {
+    position: absolute;
+    height: 1px;
+    background: #736c54;
+    opacity: .5;
+    width: 100%;
+    content: "";
+    z-index: 1;
+}
+
+.mltClpsBtn {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+/* In Focus end */
+
+/* Haworthias block start */
+.haworthias {
+    margin: 25px;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.haworthiaCard {
+    margin: 0;
+    font-size: 14px;
+}
+
+.btnHaworthia {
+    margin-left: 0;
+    margin-top: 10px;
+}
+/* Haworthias block end */
+
+/* Footer start */
+footer a:link {
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: white!important;
+}
+/* Footer end */
+
+/* Media queries start */
+@media (min-width: 1024px) {
+    .imgContain img {
+        height: 600px;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 1024px) {
+    .spanH3Title {
+        padding: 0 40px;
+        max-width: 530px;
+    }
+}
+
+@media (min-width: 768px) {
+    .spanH3Title {
+        padding: 0 30px;
+        max-width: 320px;
+    }
+}
+/* Media queries end */
